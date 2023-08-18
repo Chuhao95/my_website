@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Chuhao Liu personal website 
-description: Chuhao Liu's personal website for blogging and sharing projects
+title: Chuhao Liu
+description: I share my AI startup journey here!
 github_username: Chuhao95
 
 # Email and twitter are optional:
 email: chuhaoliu1995@gmail.com
-twitter_username: Chuhao__Liu
+twitter_username: 
 
 # Set this to true to get LaTeX math equation support
 use_math:
