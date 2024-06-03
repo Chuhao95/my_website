@@ -1,4 +1,4 @@
-![Image of chuhao liu](images/Chuhao_Profile.jpeg)
+![Image of chuhao liu](images/CL.png)
 
 # Chuhao Liu
 
