@@ -6,18 +6,17 @@
 
 - CEO and Co-founder of [Sunflower AI](https://www.sunflowerai.io)
 - Global Talent Visa receipient in Australia
-- PhD dropout
 - chuhao@sunflowerai.io
 
 ## Bio
 
-> Chuhao Liu is an entreprenuer and influencer
+> Chuhao Liu is an entreprenuer and influencer. He has received engineering education from Beijing (BSc), Texas (MSc) and Sydney (PhD Dropout).
 
 ## Interests
 
 - Building startup
-- Organising meetup [Blueprint protocol](https://protocol.bryanjohnson.co)
-- Run marathon [top 0.1% in world](https://data.typeracer.com)
+- Organising [AI meetup](https://www.linkedin.com/company/chinese-ai-meetup?trk=organization_guest_main-feed-card-text)
+- Run marathon
 
 ## Talks
 
@@ -26,7 +25,10 @@
 
 ## Media
 
-[Won National Early Researcher Showcase](https://www.uow.edu.au/media/2018/engineering-student-wins-national-early-researchers-showcase-competition.php)
+- [Future of Venue Pitch Winner](https://www.usualcompany.com/blog/it-s-a-wrap-future-of-venues-showcase)
+- [Won National Early Researcher Showcase](https://www.uow.edu.au/media/2018/engineering-student-wins-national-early-researchers-showcase-competition.php)
+- [UOW Three Minutes Winner](https://www.uow.edu.au/the-stand/2019/uow-three-minute-thesis-winner.php)
+- [SBS Chinese Interview](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/chinese-communities/cw9hm1gcl)
 
 
 ## Links
