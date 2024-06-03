@@ -10,7 +10,7 @@
 
 ## Bio
 
-> Chuhao Liu is an entreprenuer and influencer. He has received engineering education from Beijing (BSc), Texas (MSc) and Sydney (PhD Dropout).
+Chuhao Liu is an entreprenuer and influencer. He has received engineering education from Beijing (BSc), Texas (MSc) and Sydney (PhD Dropout).
 
 ## Interests
 
