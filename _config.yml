@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Chuhao Liu
-description: I share my AI startup journey here!
-github_username: Chuhao95
+description:
+github_username:
 
 # Email and twitter are optional:
-email: chuhaoliu1995@gmail.com
+email:
 twitter_username: 
 
 # Set this to true to get LaTeX math equation support
@@ -19,12 +19,8 @@ use_math:
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: G-X4R8JLDXBJ
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-github-metadata
+theme:
+
 
 titles_from_headings:
   enabled:     true
