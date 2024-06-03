@@ -1,4 +1,4 @@
-![Image of chuhao liu](images/chuhao.png)
+![Image of chuhao liu](images/ChuhaoLiu.jpeg)
 
 # Chuhao Liu
 
