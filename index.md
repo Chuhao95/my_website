@@ -6,7 +6,6 @@
 
 - CEO and Co-founder of [Sunflower AI](https://www.sunflowerai.io)
 - Global Talent Visa receipient in Australia
-- chuhao@sunflowerai.io
 
 ## Bio
 
